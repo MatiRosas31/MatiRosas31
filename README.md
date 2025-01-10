@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matias <img height="40" src="https://emoji.gg/emoji/97794-computerlove"></h1>
+<h1 align="center">Hi 👋, I'm Matias <img src="https://emoji.gg/emoji/97794-computerlove"></h1>
 <h3 align="center">A passionate Full-Stack developer from Uruguay </h3>
 
 - 🔭 I’m currently studying on my **React Course**
