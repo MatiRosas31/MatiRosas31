@@ -19,7 +19,7 @@
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Progammging Languages:</h3>
 
 <p align="center"> 
   <a href="" target="_blank"> 
