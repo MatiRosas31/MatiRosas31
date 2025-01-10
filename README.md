@@ -38,7 +38,7 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
   <a href="https://www.postgresql.org/" target="_blank"> 
-    <img src="" alt="postgresql" width="40" height="40"/> 
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
   </a>
   
 </p>
