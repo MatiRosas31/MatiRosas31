@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Matias <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Matias <img height="40" src="https://emoji.gg/emoji/97794-computerlove"></h1>
 <h3 align="center">A passionate Full-Stack developer from Uruguay </h3>
 
 - 🔭 I’m currently studying on my **React Course**
@@ -37,6 +37,10 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
+  <a href="https://www.postgresql.org/" target="_blank"> 
+    <img src="" alt="postgresql" width="40" height="40"/> 
+  </a>
+  
 </p>
 
 <p align= "center">
