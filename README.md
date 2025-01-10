@@ -43,12 +43,12 @@
 </p>
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=MatiRosas31&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiRosas31&theme=react&layout=compact" />
 </p>
 
 ------
 
-[BrantLauro](https://github.com/BrantLauro)
+[Matias Rosas](https://github.com/MatiRosas31)
 
 Last Edited on: 05/08/2021
