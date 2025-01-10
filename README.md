@@ -40,6 +40,9 @@
   <a href="https://www.postgresql.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/> 
   </a>
+  <a href="https://getbootstrap.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
+  </a>
   
 </p>
 
