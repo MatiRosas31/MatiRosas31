@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matias <img height="40px" alt="ComputerLove" src="https://cdn3.emoji.gg/emojis/97794-computerlove.gif"></h1>
 <h3 align="center">A passionate Full-Stack developer from Uruguay </h3>
 
-- 🔭 I’m currently studying on my **React Course**
+- 🔭 I’m currently studying Full-Stack Development at <a href="https://4geeks.com/">4Geeks Academy</a>
 
 - 🌱 I’m currently learning **React, Python, SQL, HTML5 and CSS3**
 
