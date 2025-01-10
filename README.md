@@ -43,6 +43,9 @@
   <a href="https://getbootstrap.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/> 
   </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="flask"/> 
+  </a>
   
 </p>
 
