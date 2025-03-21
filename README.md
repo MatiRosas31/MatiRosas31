@@ -60,7 +60,7 @@
             <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="Image 1" style="width: 100%; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
-            <img src="https://via.placeholder.com/200" alt="Image 2" style="width: 100%; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="Image 2" style="width: 100%; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
             <img src="https://via.placeholder.com/200" alt="Image 3" style="width: 100%; border-radius: 10px;">
