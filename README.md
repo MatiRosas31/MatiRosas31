@@ -62,19 +62,19 @@
             <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
-            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 3" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 3" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/4" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 4" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 4" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/5" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/6" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
     </div>
  
