@@ -59,10 +59,10 @@
   
   <div style="display: grid;">
       <a href="https://example.com/4" target="_blank">
-        <img src="https://i.postimg.cc/Fs02ktJL/landing-site-for-Matchflix-with-a-black-background-pink-letters-combining-Netflix-and-Tinder-theme.jpg" alt="Matchflix" style="width: 30%; height: 218px; border-radius: 10px;">
+        <img src="https://i.postimg.cc/Fs02ktJL/landing-site-for-Matchflix-with-a-black-background-pink-letters-combining-Netflix-and-Tinder-theme.jpg" alt="Matchflix" style="width: 30%; height: 218px; border-radius: 10px; margin-right:10px">
         </a>
        <a href="https://example.com/2" target="_blank">
-            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 30%; height: 218px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 30%; height: 218px; border-radius: 10px; margin-right:10px">
         </a>
         <a href="https://example.com/1" target="_blank">
             <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 30%; height: 218px; border-radius: 10px;">
