@@ -73,8 +73,8 @@
         <a href="https://example.com/5" target="_blank">
             <img src="https://i.postimg.cc/FHfgH6sJ/12efffe1fbcfa76060ae7596c593776643f448952da7ed5d006799da2c41bcc8.png" alt="ContactList" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
-        <a href="https://example.com/6" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 30%; height: 218px; border-radius: 10px;">
+        <a href="https://sample-service-name-u4br.onrender.com/" target="_blank">
+            <img src="https://i.postimg.cc/Bnb9QHzV/Patas-Perdidas.jpg" alt="PatasPerdidas" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
     </div>
  
