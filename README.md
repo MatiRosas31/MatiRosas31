@@ -65,7 +65,7 @@
             <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 40%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
-            <img src="https://postimg.cc/CRpH4nWy" alt="Image 3" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/P5SBXX1t/starwars.jpg" alt="Image 3" style="width: 40%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/4" target="_blank">
             <img src="https://placehold.co/600x400" alt="Image 4" style="width: 40%; height: 218px; border-radius: 10px;">
