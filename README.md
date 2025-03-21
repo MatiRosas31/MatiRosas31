@@ -61,20 +61,20 @@
       <a href="https://example.com/4" target="_blank">
         <img src="https://i.postimg.cc/Fs02ktJL/landing-site-for-Matchflix-with-a-black-background-pink-letters-combining-Netflix-and-Tinder-theme.jpg" alt="Matchflix" style="width: 30%; height: 218px; border-radius: 10px; margin-right:10px">
         </a>
-       <a href="https://example.com/2" target="_blank">
+       <a href="https://github.com/MatiRosas31/PizzaMaster" target="_blank">
             <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 30%; height: 218px; border-radius: 10px; margin-right:10px">
         </a>
-        <a href="https://example.com/1" target="_blank">
+        <a href="https://github.com/MatiRosas31/Ticket-Master-Creator" target="_blank">
             <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
         <hr/>
         <a href="https://sample-service-name-u4br.onrender.com/" target="_blank">
             <img src="https://i.postimg.cc/Bnb9QHzV/Patas-Perdidas.jpg" alt="PatasPerdidas" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
-        <a href="https://example.com/3" target="_blank">
+        <a href="https://github.com/MatiRosas31/Starwars-blog-site-using-API" target="_blank">
             <img src="https://i.postimg.cc/P5SBXX1t/starwars.jpg" alt="StarwarsBlog" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
-        <a href="https://example.com/5" target="_blank">
+        <a href="https://github.com/MatiRosas31/Contact-List-App-Using-React-Context" target="_blank">
             <img src="https://i.postimg.cc/FHfgH6sJ/12efffe1fbcfa76060ae7596c593776643f448952da7ed5d006799da2c41bcc8.png" alt="ContactList" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
     </div>
