@@ -59,7 +59,7 @@
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto; padding: 20px;">
         <a href="https://example.com/1" target="_blank">
-            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 100%; height: auto; border-radius: 10px;">
+            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 40%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
             <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 40%; height: auto; border-radius: 10px;">
