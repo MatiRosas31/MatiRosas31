@@ -57,10 +57,10 @@
 
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 800px; margin: auto; padding: 40px;">
         <a href="https://example.com/1" target="_blank">
-            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 100%; border-radius: 10px;">
+            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 600px; height: 400px;; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
-            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 100%; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 600px; height: 400px; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
             <img src="https://via.placeholder.com/200" alt="Image 3" style="width: 600px; height: 400px; border-radius: 10px;">
