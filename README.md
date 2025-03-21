@@ -66,13 +66,13 @@
             <img src="https://placehold.co/600x400" alt="Image 3" style="width: 600px; height: 400px; border-radius: 10px;">
         </a>
         <a href="https://example.com/4" target="_blank">
-            <img src="https://via.placeholder.com/200" alt="Image 4" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 4" style="width: 600px; height: 400px; border-radius: 10px;">
         </a>
         <a href="https://example.com/5" target="_blank">
-            <img src="https://via.placeholder.com/200" alt="Image 5" style="width: 600px; height: 400px;; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 600px; height: 400px;; border-radius: 10px;">
         </a>
         <a href="https://example.com/6" target="_blank">
-            <img src="https://via.placeholder.com/200" alt="Image 6" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 600px; height: 400px; border-radius: 10px;">
         </a>
     </div>
 
