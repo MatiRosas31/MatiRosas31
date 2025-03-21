@@ -54,27 +54,30 @@
 </p>
 
 ------
-<h1>My projects</h1>
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; max-width: 800px; margin: auto; padding: 40px;">
+<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+    <h1 style="text-align: center; font-size: 48px; margin-top: 40px; color: #333; letter-spacing: 2px; text-shadow: 2px 2px #ccc;">My Projects</h1>
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 1200px; margin: 40px auto; padding: 20px;">
         <a href="https://example.com/1" target="_blank">
-            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 600px; height: 400px;; border-radius: 10px;">
+            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
-            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 3" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 3" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/4" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 4" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 4" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/5" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 600px; height: 400px;; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
         <a href="https://example.com/6" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 600px; height: 400px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 100%; height: auto; border-radius: 10px;">
         </a>
     </div>
+  </div>
 
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
