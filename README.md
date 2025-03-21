@@ -54,7 +54,7 @@
 </p>
 
 ------
-<div style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
+<div align="center">
     <h1 align=center style="text-align: center; font-size: 48px; margin-top: 40px; color: #333; letter-spacing: 2px; text-shadow: 2px 2px #ccc;">My Projects</h1>
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto; padding: 20px;">
