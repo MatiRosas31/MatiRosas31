@@ -55,7 +55,7 @@
 
 ------
 <div style="font-family: Arial, sans-serif; background-color: #f4f4f4; margin: 0; padding: 0;">
-    <h1 style="text-align: center; font-size: 48px; margin-top: 40px; color: #333; letter-spacing: 2px; text-shadow: 2px 2px #ccc;">My Projects</h1>
+    <h1 align=center style="text-align: center; font-size: 48px; margin-top: 40px; color: #333; letter-spacing: 2px; text-shadow: 2px 2px #ccc;">My Projects</h1>
 
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; max-width: 1200px; margin: 40px auto; padding: 20px;">
         <a href="https://example.com/1" target="_blank">
