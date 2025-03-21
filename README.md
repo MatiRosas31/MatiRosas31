@@ -57,24 +57,24 @@
 <div align="center">
     <h1 align=center style="text-align: center; font-size: 48px; margin-top: 40px; color: #333; letter-spacing: 2px; text-shadow: 2px 2px #ccc;">My Projects</h1>
   
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 20px; max-width: 1000px; margin: 40px auto; padding: 20px;">
+  <div style="display: grid;">
         <a href="https://example.com/1" target="_blank">
-            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/2" target="_blank">
-            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/9MXJGRRq/initial.jpg" alt="PizzaMaster" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/3" target="_blank">
-            <img src="https://i.postimg.cc/P5SBXX1t/starwars.jpg" alt="Image 3" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://i.postimg.cc/P5SBXX1t/starwars.jpg" alt="Image 3" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/4" target="_blank">
             <img src="https://i.postimg.cc/Fs02ktJL/landing-site-for-Matchflix-with-a-black-background-pink-letters-combining-Netflix-and-Tinder-theme.jpg" alt="Image 4" style="width: 40%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/5" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 5" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
         <a href="https://example.com/6" target="_blank">
-            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 40%; height: 218px; border-radius: 10px;">
+            <img src="https://placehold.co/600x400" alt="Image 6" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
     </div>
  
