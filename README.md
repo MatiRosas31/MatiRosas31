@@ -67,7 +67,7 @@
         <a href="https://example.com/1" target="_blank">
             <img src="https://i.postimg.cc/vTnpZbfg/ticketmaster-landing-1.jpg" alt="TicketMaster" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
-------
+        <hr/>
         <a href="https://sample-service-name-u4br.onrender.com/" target="_blank">
             <img src="https://i.postimg.cc/Bnb9QHzV/Patas-Perdidas.jpg" alt="PatasPerdidas" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
@@ -78,7 +78,6 @@
             <img src="https://i.postimg.cc/FHfgH6sJ/12efffe1fbcfa76060ae7596c593776643f448952da7ed5d006799da2c41bcc8.png" alt="ContactList" style="width: 30%; height: 218px; border-radius: 10px;">
         </a>
     </div>
- 
   </div>
 
 <div align=center>
